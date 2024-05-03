@@ -1,0 +1,4 @@
+/Users/cd yihaichen/Desktop/mycomputer/py
+Pigeon-Mac-Book-Air:py yihaichen$ pwd
+/Users/yihaichen/Desktop/mycomputer/py
+Pigeon-Mac-Book-Air:py yihaichen$ ./ ...
